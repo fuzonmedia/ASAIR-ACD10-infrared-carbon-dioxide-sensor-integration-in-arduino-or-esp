@@ -46,4 +46,4 @@ This project demonstrates how to integrate the **ASAIR ACD10 infrared CO₂ sens
 2. Clone this repo and upload the sketch:
 
 ```bash
-git clone https://github.com/yourusername/ASAIR-ACD10-DHT20-LCD
+git clone https://github.com/fuzonmedia/ASAIR-ACD10-infrared-carbon-dioxide-sensor-integration-in-arduino-or-esp
